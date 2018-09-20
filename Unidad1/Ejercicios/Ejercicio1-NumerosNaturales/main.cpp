@@ -5,15 +5,15 @@ using namespace std;
 int main()
 {
 
-    int numeros[5];
+    int numeros[10];
 
-    cout <<" <INGRESA 5 NUMEROS MAYORES A 0> \n";
-    for(int i=0; i<=4; i++){
+    cout <<" <Ingresa 10 numeros mayor o igual a 0> \n";
+    for(int i=0; i<=9; i++){
 
     cin >>numeros[i];
         if (numeros[i]<0)
         {
-            cout<<"el numero que ingresaste debe ser Mayor a cero "<<endl;
+            cout<<"El numero que ingresaste debe ser Mayor a cero "<<endl;
             i--;
         }
     }
