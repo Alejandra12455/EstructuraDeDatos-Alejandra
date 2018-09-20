@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537485131 source:c:\users\maria alejandra\documents\estructuradedatos-alejandra\unidad 1\ejercicios\ejercicio1\main.cpp
+	<iostream>
+	"include/natural.h"
+	<stdlib.h>
+
+1537485131 c:\users\maria alejandra\documents\estructuradedatos-alejandra\unidad 1\ejercicios\ejercicio1\include\natural.h
+
+1537485131 source:c:\users\maria alejandra\documents\estructuradedatos-alejandra\unidad 1\ejercicios\ejercicio1\src\natural.cpp
+	<iostream>
+	"natural.h"
+

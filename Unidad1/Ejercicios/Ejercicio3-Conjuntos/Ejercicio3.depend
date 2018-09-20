@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537486675 source:c:\users\maria alejandra\documents\estructuradedatos-alejandra\unidad 1\ejercicios\ejercicio3\src\conjuntos.cpp
+	"Conjuntos.h"
+	<iostream>
+	<process.h>
+	<stdlib.h>
+
+1537486350 c:\users\maria alejandra\documents\estructuradedatos-alejandra\unidad 1\ejercicios\ejercicio3\include\conjuntos.h
+
+1537486675 source:c:\users\maria alejandra\documents\estructuradedatos-alejandra\unidad 1\ejercicios\ejercicio3\main.cpp
+	<iostream>
+	"Conjuntos.h"
+	<stdlib.h>
+	<string>
+
