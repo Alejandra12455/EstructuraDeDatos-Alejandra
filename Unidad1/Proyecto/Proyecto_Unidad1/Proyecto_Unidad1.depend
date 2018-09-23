@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1537665458 source:c:\users\maria alejandra\documents\estructuradedatos-alejandra\unidad1\proyecto\proyecto_unidad1\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	"Datos.h"
+	<string.h>
+
+1537665458 c:\users\maria alejandra\documents\estructuradedatos-alejandra\unidad1\proyecto\proyecto_unidad1\include\datos.h
+	<istream>
+	<iostream>
+	<string.h>
+	<fstream>
+	<string>
+
+1537665458 source:c:\users\maria alejandra\documents\estructuradedatos-alejandra\unidad1\proyecto\proyecto_unidad1\src\datos.cpp
+	"Datos.h"
+	<iostream>
+	<fstream>
+
