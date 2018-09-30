@@ -1,0 +1,2 @@
+"C:\\Users\\Maria Alejandra\\Documents\\EstructuraDeDatos-Alejandra\\Unidad2\\Ejercicios\\Ejercicio1\\src\\Ejercicio1.java"
+"C:\\Users\\Maria Alejandra\\Documents\\EstructuraDeDatos-Alejandra\\Unidad2\\Ejercicios\\Ejercicio1\\src\\Palindromo.java"
